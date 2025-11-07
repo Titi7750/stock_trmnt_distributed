@@ -1,11 +1,26 @@
-user_id,first_name,last_name,age,gender,country,salary
-1,Alice,Martin,28,F,France,3200.5
-2,Lucas,Bernard,35,M,France,1500.0
-3,Sofia,Rodriguez,42,F,Espagne,8700.1
-4,Adam,Nguyen,22,M,Vietnam,950.0
-5,Emma,Brown,31,F,USA,12500.75
-6,Liam,Dubois,29,M,France,4800.2
-7,Nora,Khan,26,F,Inde,2100.9
-8,Ethan,Garcia,38,M,Mexique,6400.0
-9,Zara,Ali,24,F,Maroc,3100.1
-10,Noah,Smith,45,M,Canada,7300.5
+id,name,age,country,salary,department
+1,Alice Dupont,29,France,3500,IT
+2,Bob Martin,45,France,4800,Finance
+3,Carla Rossi,31,Italy,4100,Marketing
+4,David Lopez,27,Spain,3200,IT
+5,Emma Dubois,42,France,5300,HR
+6,Francesco Bianchi,35,Italy,3900,Finance
+7,Hugo Fernandez,50,Spain,6200,Operations
+8,Isabelle Leroy,28,Belgium,3400,IT
+9,Jonas Muller,33,Germany,4200,Marketing
+10,Klara Schmidt,38,Germany,4600,Finance
+11,Lucia Conti,41,Italy,5100,HR
+12,Martin Petit,26,France,3100,IT
+13,Natalia Ruiz,48,Spain,5800,Operations
+14,Oscar Bernard,30,France,3600,Marketing
+15,Paolo Greco,36,Italy,4300,Finance
+16,Quentin Laurent,40,Belgium,4900,HR
+17,Rachel Keller,25,Germany,3000,IT
+18,Sergio Alvarez,32,Spain,4100,Finance
+19,Tomás Duarte,29,Portugal,3500,IT
+20,Ursula Meier,37,Germany,4700,Marketing
+21,Victor Hugo,45,France,5200,Operations
+22,Walter Blanc,39,France,4400,Finance
+23,Ximena Torres,28,Spain,3300,Marketing
+24,Yanick Moreau,43,France,5500,HR
+25,Zara Lefevre,34,Belgium,4000,Finance
