@@ -1,0 +1,10 @@
+{"timestamp": "2025-10-12T08:00:00Z", "sensor_id": "S001", "equipment_id": "EQ-A1", "temperature": 62.5, "vibration": 0.42, "pressure": 101.5, "status": "OK"}
+{"timestamp": "2025-10-12T08:00:01Z", "sensor_id": "S002", "equipment_id": "EQ-A1", "temperature": 63.1, "vibration": 0.47, "pressure": 101.3, "status": "OK"}
+{"timestamp": "2025-10-12T08:00:02Z", "sensor_id": "S003", "equipment_id": "EQ-B4", "temperature": 70.2, "vibration": 0.82, "pressure": 99.8, "status": "ALERT"}
+{"timestamp": "2025-10-12T08:00:03Z", "sensor_id": "S004", "equipment_id": "EQ-B4", "temperature": 69.7, "vibration": 0.76, "pressure": 100.2, "status": "OK"}
+{"timestamp": "2025-10-12T08:00:04Z", "sensor_id": "S005", "equipment_id": "EQ-C2", "temperature": 59.4, "vibration": 0.39, "pressure": 102.1, "status": "OK"}
+{"timestamp": "2025-10-12T08:00:05Z", "sensor_id": "S006", "equipment_id": "EQ-C2", "temperature": 75.2, "vibration": 1.01, "pressure": 98.7, "status": "ALERT"}
+{"timestamp": "2025-10-12T08:00:06Z", "sensor_id": "S007", "equipment_id": "EQ-D3", "temperature": 61.7, "vibration": 0.44, "pressure": 100.9, "status": "OK"}
+{"timestamp": "2025-10-12T08:00:07Z", "sensor_id": "S008", "equipment_id": "EQ-D3", "temperature": 77.1, "vibration": 1.20, "pressure": 97.3, "status": "ALERT"}
+{"timestamp": "2025-10-12T08:00:08Z", "sensor_id": "S009", "equipment_id": "EQ-E5", "temperature": 65.8, "vibration": 0.55, "pressure": 101.0, "status": "OK"}
+{"timestamp": "2025-10-12T08:00:09Z", "sensor_id": "S010", "equipment_id": "EQ-E5", "temperature": 80.5, "vibration": 1.35, "pressure": 96.8, "status": "ALERT"}
