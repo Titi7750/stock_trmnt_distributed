@@ -1,0 +1,16 @@
+equipment_id,equipment_type,location,manufacturer,install_date,last_maintenance
+EQ-001,Pump,Marseille,Schneider,2018-03-14,2024-01-10
+EQ-002,Turbine,Lyon,GE,2019-07-22,2024-03-15
+EQ-003,Compressor,Paris,Siemens,2020-11-05,2024-04-18
+EQ-004,Boiler,Toulouse,EDF,2021-09-09,2024-05-02
+EQ-005,Valve,Lille,ABB,2018-12-17,2024-02-12
+EQ-006,Conveyor,Nantes,Rockwell,2022-01-26,2024-06-21
+EQ-007,HeatExchanger,Strasbourg,GE,2017-06-03,2023-11-14
+EQ-008,Generator,Paris,Schneider,2019-05-18,2024-03-03
+EQ-009,SensorRack,Marseille,Siemens,2020-02-09,2024-04-25
+EQ-010,Motor,Lyon,ABB,2018-09-27,2024-02-20
+EQ-011,Transformer,Bordeaux,Schneider,2021-03-11,2024-06-12
+EQ-012,Turbine,Paris,GE,2019-08-01,2024-03-27
+EQ-013,Compressor,Nancy,Siemens,2020-10-29,2024-05-07
+EQ-014,Boiler,Lille,EDF,2021-09-09,2024-05-02
+EQ-015,Conveyor,Toulon,Rockwell,2022-03-16,2024-07-19
